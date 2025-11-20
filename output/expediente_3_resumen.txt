@@ -1,0 +1,49 @@
+============================================================
+RESUMEN DEL EXPEDIENTE VIRTUAL
+============================================================
+
+Expediente ID: 3
+Total de bloques: 6
+Blockchain válida: True
+
+BLOQUES:
+------------------------------------------------------------
+
+Bloque 1:
+  Block ID: 5 (primo)
+  Tipo: N/A
+  Hash: 0006d877b2a8c4e734b260a67a19384f16a748abdd21a87a24f55783eaec4d07
+  Nonce: 27752 (no primo)
+
+Bloque 2:
+  Block ID: 7 (primo)
+  Tipo: documento_legal
+  Hash: 000a53731d70b34f051ab9da63736c9e200d553c0e7d18311be8e7f15ebb86ac
+  Nonce: 1546 (no primo)
+  Título: Demanda de Amparo Indirecto
+
+Bloque 3:
+  Block ID: 11 (primo)
+  Tipo: jurisprudencia
+  Hash: 00019bf4c375cc3a763fedda0a99d9affee97ac0428d0355a5a0ee228fb52781
+  Nonce: 2396 (no primo)
+  Tesis: DEBIDO PROCESO. ALCANCE Y CONTENIDO DEL DERECHO FUNDAMENTAL
+
+Bloque 4:
+  Block ID: 13 (primo)
+  Tipo: jurisprudencia
+  Hash: 000e776b4e3882ef64b7c09e8e20e5c4d463fd08579314cdd89ebffefe9a512f
+  Nonce: 3441 (no primo)
+  Tesis: DERECHO DE AUDIENCIA. SU CONTENIDO Y ALCANCES
+
+Bloque 5:
+  Block ID: 17 (primo)
+  Tipo: pruebas
+  Hash: 00013f823a15a707c25286a54532496b564e5bdf04a208584de1cab8988e8e20
+  Nonce: 3036 (no primo)
+
+Bloque 6:
+  Block ID: 19 (primo)
+  Tipo: resolucion
+  Hash: 000fe66d0bee442a64e5c45d61f9e7deb9cff12a3e42c1ce214a399aa068a08c
+  Nonce: 21 (no primo)
